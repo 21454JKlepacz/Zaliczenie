@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Kuba/.m2/repository/org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1.jar;C:/Users/Kuba/.m2/repository/org/apache/logging/log4j/log4j-api/2.14.1/log4j-api-2.14.1.jar'
+-encoding
+'Cp1250'
+-protected
+-sourcepath
+'C:/Users/Kuba/Documents/GitHub/Zaliczenie/src'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Kuba/Documents/GitHub/Zaliczenie/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ZaliczenieCwiczen 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Kuba/Documents/GitHub/Zaliczenie/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ZaliczenieCwiczen 0.0.1-SNAPSHOT API'

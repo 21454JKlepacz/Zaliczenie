@@ -1,0 +1,40 @@
+@options
+@packages
+-encoding
+'Cp1250'
+-protected
+-sourcepath
+'C:/Users/Kuba/Documents/GitHub/Zaliczenie/src'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Kuba/Documents/GitHub/Zaliczenie/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ZaliczenieCwiczen 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Kuba/Documents/GitHub/Zaliczenie/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ZaliczenieCwiczen 0.0.1-SNAPSHOT API'
+pociagi
+pociagiTest
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\src = 1687387655075
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\target\site\apidocs\allclasses-frame.html = 1687390533886
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\target\site\apidocs\allclasses-noframe.html = 1687390533887
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\target\site\apidocs\constant-values.html = 1687390533853
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\target\site\apidocs\deprecated-list.html = 1687390533884
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\target\site\apidocs\help-doc.html = 1687390533896
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\target\site\apidocs\index-all.html = 1687390533880
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\target\site\apidocs\index.html = 1687390533889
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\target\site\apidocs\overview-frame.html = 1687390533827
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\target\site\apidocs\overview-summary.html = 1687390533892
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\target\site\apidocs\overview-tree.html = 1687390533875
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\target\site\apidocs\package-list = 1687390533824
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\target\site\apidocs\script.js = 1687390533899
+C:\Users\Kuba\Documents\GitHub\Zaliczenie\target\site\apidocs\stylesheet.css = 1687390533898
